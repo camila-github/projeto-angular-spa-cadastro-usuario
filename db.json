@@ -1,0 +1,43 @@
+{
+  "cadastro": [
+    {
+      "id": 1,
+      "name": "Flavio",
+      "email": "flavio@web.com",
+      "telefone": "1122223333",
+      "cep": "12345678",
+      "bairro": "sao paulo",
+      "complemento": "",
+      "uf": "sp",
+      "localidade": "",      
+      "logradouro": "",  
+      "urlfoto": ""
+    },
+    {
+      "id": 2,
+      "name": "Angela",
+      "email": "angela@web.com",
+      "telefone": "1122223333",
+      "cep": "12345678",
+      "bairro": "rio de janeiro",
+      "complemento": "",
+      "uf": "rj",
+      "localidade": "",      
+      "logradouro": "",  
+      "urlfoto": ""
+    },
+    {
+      "id": 3,
+      "name": "Antonio",
+      "email": "antonio@web.com",
+      "telefone": "1122223333",
+      "cep": "12345678",
+      "bairro": "rio grande do sul",
+      "complemento": "",
+      "uf": "rs",
+      "localidade": "",      
+      "logradouro": "",  
+      "urlfoto": ""
+    }
+  ]
+}
