@@ -1,2 +1,2 @@
-## Projeto: Cadastro de Usuários com Angular + SPA
+## Projeto DIO: Cadastro de Usuários com Angular + SPA
 
